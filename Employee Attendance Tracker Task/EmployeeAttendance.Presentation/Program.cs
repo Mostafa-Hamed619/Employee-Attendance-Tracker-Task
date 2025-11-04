@@ -14,6 +14,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseInMemoryDatabase("AttendanceDb"));
 
 builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 
 var app = builder.Build();
 

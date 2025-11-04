@@ -1,0 +1,54 @@
+﻿@model IEnumerable<EmployeesTableViewModel>
+
+<h2>Employee List</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">Create New Employee</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Presents</th>
+            <th>Absents</th>
+            <th>Attendance %</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Code</td>
+                <td>@emp.FullName</td>
+                <td>@emp.Email</td>
+                <td>@emp.DepartmentName</td>
+                <td>@emp.Presents</td>
+                <td>@emp.Absents</td>
+                <td>@emp.AttendancePercentage %</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@emp.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@emp.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Pagination -->
+<div class="text-center mt-3">
+    @if (ViewBag.TotalPages > 1)
+    {
+        <nav>
+            <ul class="pagination justify-content-center">
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    <li class="page-item @(i == ViewBag.PageNumber ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i">@i</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+</div>

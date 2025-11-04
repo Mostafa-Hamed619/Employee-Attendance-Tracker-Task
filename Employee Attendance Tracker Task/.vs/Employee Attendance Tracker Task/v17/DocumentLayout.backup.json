@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\employeeattendancesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\employeeattendancesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\models\\employeestableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\models\\employeestableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,48 +75,12 @@
       "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\employeeattendancesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\employeeattendancesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|solutionrelative:employeeattendance.data\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.business\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6EBE15E-6301-4CD2-A3CE-7E202E6F57A7}|EmployeeAttendance.Business\\EmployeeAttendance.Business.csproj|solutionrelative:employeeattendance.business\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1CA07EE-17F2-476C-A591-16FA6D9FDC05}|EmployeeAttendance.Presentation\\EmployeeAttendance.Presentation.csproj|solutionrelative:employeeattendance.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98C49859-610E-44B1-ABB4-67F05A8A5C6B}|EmployeeAttendance.Data\\EmployeeAttendance.Data.csproj|e:\\projects\\api\\employee-attendance-tracker-task\\employee attendance tracker task\\employeeattendance.data\\wrappers\\queryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,33 +122,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml*",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T17:15:59.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T17:12:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T16:57:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAIwI0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T12:10:56.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T13:43:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Interfaces\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Interfaces\\IEmployeeService.cs",
               "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Interfaces\\IEmployeeService.cs",
               "RelativeToolTip": "EmployeeAttendance.Business\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T09:14:27.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
-              "RelativeToolTip": "EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAIwF0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwD0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:25:30.852Z",
+              "WhenOpened": "2025-11-04T09:20:49.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\Employee.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T21:03:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T21:00:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Program.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Program.cs",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:55:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Department.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\Department.cs",
@@ -137,20 +265,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\Employee.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Employee.cs",
-              "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T21:03:36.775Z",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-03T20:59:39.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "EmployeeAttendanceSummary.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
+              "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:32:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\DataContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Data\\DataContext\\AppDbContext.cs",
@@ -158,64 +299,24 @@
               "RelativeToolTip": "EmployeeAttendance.Data\\DataContext\\AppDbContext.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:46:29.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:46:29.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "EmployeesTableViewModel.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Models\\EmployeesTableViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Models\\EmployeesTableViewModel.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Models\\EmployeesTableViewModel.cs",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Models\\EmployeesTableViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:57:07.235Z",
+              "WhenOpened": "2025-11-04T13:36:16.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml*",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T06:18:13.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
-              "RelativeToolTip": "EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T09:20:49.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeAttendanceSummary.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
-              "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T11:32:11.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Attendance.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Entities\\Attendance.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Entities\\Attendance.cs",
@@ -228,7 +329,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Business\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:25:30.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:57:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T06:18:13.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Delete.cshtml",
               "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Delete.cshtml",
@@ -236,36 +373,11 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T06:36:57.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T06:36:57.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T21:00:37.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Program.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Program.cs",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:55:35.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Business\\Interfaces\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Business\\Interfaces\\IDepartmentService.cs",
@@ -277,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Department\\Create.cshtml",
@@ -289,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "PageResult.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Wrappers\\PageResult.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Wrappers\\PageResult.cs",
@@ -301,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "QueryableExtensions.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Data\\Wrappers\\QueryableExtensions.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Data\\Wrappers\\QueryableExtensions.cs",
@@ -313,19 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T20:59:39.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\_ViewImports.cshtml",
