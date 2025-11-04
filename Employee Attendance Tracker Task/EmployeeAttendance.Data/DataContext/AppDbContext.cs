@@ -56,8 +56,15 @@ namespace EmployeeAttendance.DataContext.Data
                 new Employee { Id = 1, Code = 1001, FullName = "Mostafa Elsayed Mostafa Hamed", Email = "mostafa.hamed@example.com", DepartmentId = 2 },
                 new Employee { Id = 2, Code = 1002, FullName = "Omar Hassan Mohamed Ali", Email = "omar.hassan@example.com", DepartmentId = 1 },
                 new Employee { Id = 3, Code = 1003, FullName = "Sara Mahmoud Adel Nabil", Email = "sara.mahmoud@example.com", DepartmentId = 3 },
-                new Employee { Id = 4, Code = 1004, FullName = "Abdelhamid Mahmoud Khattab elTakrity ", Email = "abdelhamid.elTakrity@example.com", DepartmentId = 3 }
+                new Employee { Id = 4, Code = 1004, FullName = "Abdelhamid Mahmoud Khattab Eltakrity", Email = "abdelhamid.eltakrity@example.com", DepartmentId = 3 },
+                new Employee { Id = 5, Code = 1005, FullName = "Youssef Mohamed Ahmed Ali", Email = "youssef.ali@example.com", DepartmentId = 2 },
+                new Employee { Id = 6, Code = 1006, FullName = "Laila Tarek Mahmoud Hassan", Email = "laila.hassan@example.com", DepartmentId = 1 },
+                new Employee { Id = 7, Code = 1007, FullName = "Karim Mostafa Adel Fathi", Email = "karim.fathi@example.com", DepartmentId = 2 },
+                new Employee { Id = 8, Code = 1008, FullName = "Nour Ahmed Youssef Gamal", Email = "nour.gamal@example.com", DepartmentId = 3 },
+                new Employee { Id = 9, Code = 1009, FullName = "Hassan Ali Mahmoud Samir", Email = "hassan.samir@example.com", DepartmentId = 1 },
+                new Employee { Id = 10, Code = 1010, FullName = "Fatma Ibrahim Khaled Sayed", Email = "fatma.sayed@example.com", DepartmentId = 2 }
             );
+
 
             // --- Attendance ---
             modelBuilder.Entity<Attendance>().HasData(
