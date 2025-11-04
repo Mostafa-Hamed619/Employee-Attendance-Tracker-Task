@@ -1,7 +1,7 @@
 ﻿using EmployeeAttendance.Business.Interfaces;
-using EmployeeAttendance.Data.Data;
 using EmployeeAttendance.Data.Entities;
 using EmployeeAttendance.Data.Wrappers;
+using EmployeeAttendance.DataContext.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeAttendance.Business.Implementations
@@ -58,7 +58,7 @@ namespace EmployeeAttendance.Business.Implementations
 
         public async Task<PageResult<Department>> GetPaginatedDepartments(int page, int pageSize)
         {
-            var query = _db.Departments.AsQueryable();
+            var query = _db.Departments.Include(d => d.Employees).AsQueryable();
 
             return await query.ToPaginatedListAsync(page, pageSize);
         }
@@ -83,16 +83,22 @@ namespace EmployeeAttendance.Business.Implementations
             return existing;
         }
 
-
-
-        #region Helping Mehtods
-
-        private async Task<bool> IsDepartmentUniqueAsync(string departmentName, string code)
+        public async Task<bool> IsCodeUnique(int Id, string code)
         {
-            return !await _db.Departments.AnyAsync(d => d.Code == code || d.Name == departmentName);
+            return !await _db.Departments.AnyAsync(d => d.Code == code && d.Id != Id);
+        }
+
+        public async Task<bool> IsNameUnique(int Id, string Name)
+        {
+            return !await _db.Departments.AnyAsync(d => d.Name == Name && d.Id != Id);
         }
 
 
+        #region Helping Methods
+        public async Task<bool> IsDepartmentUniqueAsync(string departmentName, string code)
+        {
+            return !await _db.Departments.AnyAsync(d => d.Code == code || d.Name == departmentName);
+        }
         #endregion
     }
 }

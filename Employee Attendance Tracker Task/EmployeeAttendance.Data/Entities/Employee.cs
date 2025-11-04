@@ -7,16 +7,18 @@ public class Employee
 {
     public int Id { get; set; }
 
-    [Required]
-    public int Code { get; set; } // will get it's value from services
+    [Required(ErrorMessage = "Employee code is required.")]
+    public int Code { get; set; }
 
-    [Required, RegularExpression(@"^([A-Za-z]{2,}\s){3}[A-Za-z]{2,}$")]
+    [Required(ErrorMessage = "Full name is required.")]
+    [RegularExpression(@"^([A-Za-z]{2,}\s){3}[A-Za-z]{2,}$", ErrorMessage = "Full name must contain exactly four words, each at least two letters long.")]
     public string FullName { get; set; }
 
-    [Required, EmailAddress]
+    [Required(ErrorMessage = "Email address is required.")]
+    [EmailAddress(ErrorMessage = "Please enter a valid email address.")]
     public string Email { get; set; }
 
-    [Required]
+    [Required(ErrorMessage = "Department is required.")]
     public int DepartmentId { get; set; }
 
     [ValidateNever]

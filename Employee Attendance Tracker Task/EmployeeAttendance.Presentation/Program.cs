@@ -1,4 +1,6 @@
-using EmployeeAttendance.Data.Data;
+using EmployeeAttendance.Business.Implementations;
+using EmployeeAttendance.Business.Interfaces;
+using EmployeeAttendance.DataContext.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,8 @@ builder.Services.AddControllersWithViews();
 // applying the db services using InMemory datbaase
 builder.Services.AddDbContext<AppDbContext>(options =>
 options.UseInMemoryDatabase("AttendanceDb"));
+
+builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
 var app = builder.Build();
 
@@ -32,7 +36,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Department}/{action=Index}")
     .WithStaticAssets();
 
 

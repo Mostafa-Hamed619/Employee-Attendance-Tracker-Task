@@ -7,13 +7,16 @@ public class Department
 {
     public int Id { get; set; }
 
-    [Required, StringLength(50, MinimumLength = 3)]
+    [Required(ErrorMessage = "Department name is required.")]
+    [StringLength(50, MinimumLength = 3, ErrorMessage = "Department name must be between 3 and 50 characters.")]
     public string Name { get; set; }
 
-    [Required, RegularExpression(@"^[A-Z]{4}$")]
+    [Required(ErrorMessage = "Department code is required.")]
+    [RegularExpression(@"^[A-Z]{4}$", ErrorMessage = "Department code must be exactly 4 uppercase letters (e.g., HRMG, TECH).")]
     public string Code { get; set; }
 
-    [Required, StringLength(100)]
+    [Required(ErrorMessage = "Location is required.")]
+    [StringLength(100, ErrorMessage = "Location cannot exceed 100 characters.")]
     public string Location { get; set; }
 
     [ValidateNever]

@@ -14,5 +14,7 @@ namespace EmployeeAttendance.Business.Interfaces
         Task<Department> GetDepartmentById(int id);
         Task<int> GetDepartEmployeeCount(int DepartmentId);
 
+        Task<bool> IsCodeUnique(int Id, string code);
+        Task<bool> IsNameUnique(int Id, string Name);
     }
 }
