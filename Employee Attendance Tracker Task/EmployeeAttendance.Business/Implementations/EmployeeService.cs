@@ -74,7 +74,7 @@ namespace EmployeeAttendance.Business.Implementations
 
         public async Task<PageResult<Employee>> GetPaginatedEmployee(int page, int pageSize)
         {
-            var query = _db.Employees.Include(e => e.Department).AsQueryable();
+            var query = _db.Employees.Include(e => e.Department).OrderBy(d => d.FullName).AsQueryable();
 
             return await query.ToPaginatedListAsync(page, pageSize);
         }
