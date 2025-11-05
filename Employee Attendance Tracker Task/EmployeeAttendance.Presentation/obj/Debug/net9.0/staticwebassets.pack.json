@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\wwwroot\\js\\Attendance.js",
+      "PackagePath": "staticwebassets\\js\\Attendance.js"
+    },
+    {
       "Id": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

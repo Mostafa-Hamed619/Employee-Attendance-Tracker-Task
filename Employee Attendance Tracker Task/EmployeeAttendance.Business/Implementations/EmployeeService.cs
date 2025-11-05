@@ -133,6 +133,11 @@ namespace EmployeeAttendance.Business.Implementations
             }
             return true;
         }
+
+        public async Task<IEnumerable<Employee>> GetEmployees()
+        {
+            return await _db.Employees.ToListAsync();
+        }
         #endregion
     }
 }

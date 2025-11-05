@@ -5,6 +5,8 @@ namespace EmployeeAttendance.Business.Interfaces
 {
     public interface IEmployeeService
     {
+        Task<IEnumerable<Employee>> GetEmployees();
+
         Task<PageResult<Employee>> GetPaginatedEmployee(int page, int pageSize);
         Task<Employee> GetEmployeeById(int id);
 

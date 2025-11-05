@@ -1,5 +1,6 @@
 using EmployeeAttendance.Business.Implementations;
 using EmployeeAttendance.Business.Interfaces;
+using EmployeeAttendance.Business.Interfaces.EmployeeAttendance.Business.Interfaces;
 using EmployeeAttendance.DataContext.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,7 +16,7 @@ options.UseInMemoryDatabase("AttendanceDb"));
 
 builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
-
+builder.Services.AddScoped<IAttendanceService, AttendanceService>();
 var app = builder.Build();
 
 var scope = app.Services.CreateScope();

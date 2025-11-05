@@ -1,0 +1,61 @@
+﻿@model PageResult<Attendance>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Employee</th>
+            <th>Department</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model.items)
+        {
+            <tr>
+                <td>@record.Date.ToString("yyyy-MM-dd")</td>
+                <td>@record.Employee.FullName</td>
+                <td>@record.Employee.Department.Name</td>
+                <td>@record.Status</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@record.Id">Edit</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@record.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (Model.TotalPage > 1)
+{
+    <nav>
+        <ul class="pagination">
+            @for (int i = 1; i <= Model.TotalPage; i++)
+            {
+                <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                    <a class="page-link" href="javascript:void(0)" onclick="goToPage(@i)">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
+}
+
+<script>
+    function goToPage(page) {
+        var deptId = $('#filterDepartment').val();
+        var empId = $('#filterEmployee').val();
+        var from = $('#filterFrom').val();
+        var to = $('#filterTo').val();
+
+        $.post('/Attendance/Filter', {
+            departmentId: deptId,
+            employeeId: empId,
+            from: from,
+            to: to,
+            page: page
+        }, function (html) {
+            $('#attendanceTable').html(html);
+        });
+    }
+</script>
