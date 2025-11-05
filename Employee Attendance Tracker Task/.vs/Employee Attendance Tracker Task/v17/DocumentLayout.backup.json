@@ -126,9 +126,9 @@
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml*",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T17:15:59.004Z",
               "EditorCaption": ""
@@ -143,8 +143,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T17:12:57.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T17:12:57.591Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T16:57:07.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:57:07.677Z"
             },
             {
               "$type": "Document",
@@ -165,12 +163,11 @@
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs*",
-              "RelativeToolTip": "EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs*",
+              "ToolTip": "E:\\projects\\Api\\Employee-Attendance-Tracker-Task\\Employee Attendance Tracker Task\\EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAttendance.Presentation\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAIwI0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T12:10:56.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T12:10:56.986Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwCAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T13:43:25.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T13:43:25.366Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "EmployeeAttendance.Business\\Interfaces\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T09:14:27.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T09:14:27.102Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "EmployeeAttendance.Business\\Implementations\\EmployeeService.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAkwD0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T09:20:49.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T09:20:49.747Z"
             },
             {
               "$type": "Document",
@@ -221,8 +215,7 @@
               "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T21:03:36.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T21:03:36.775Z"
             },
             {
               "$type": "Document",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T21:00:37.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T21:00:37.786Z"
             },
             {
               "$type": "Document",
@@ -247,8 +239,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:55:35.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:55:35.394Z"
             },
             {
               "$type": "Document",
@@ -260,8 +251,7 @@
               "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:46:45.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:46:45.204Z"
             },
             {
               "$type": "Document",
@@ -273,8 +263,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T20:59:39.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:59:39.688Z"
             },
             {
               "$type": "Document",
@@ -286,8 +275,7 @@
               "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\EmployeeAttendanceSummary.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T11:32:11.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T11:32:11.508Z"
             },
             {
               "$type": "Document",
@@ -311,8 +299,7 @@
               "RelativeToolTip": "EmployeeAttendance.Presentation\\Models\\EmployeesTableViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T13:36:16.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T13:36:16.133Z"
             },
             {
               "$type": "Document",
@@ -324,8 +311,7 @@
               "RelativeToolTip": "EmployeeAttendance.Data\\Entities\\Attendance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:05:26.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T06:05:26.152Z"
             },
             {
               "$type": "Document",
