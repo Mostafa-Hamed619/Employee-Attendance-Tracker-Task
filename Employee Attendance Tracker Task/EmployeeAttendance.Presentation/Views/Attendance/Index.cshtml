@@ -28,11 +28,11 @@
         </div>
         <div class="col-md-3">
             <label>From</label>
-            <input type="date" id="filterFrom" class="form-control" value="@currentFrom" />
+            <input type="date" id="filterFrom" class="form-control" value="@currentFrom" max="@DateTime.Today.ToString("yyyy-MM-dd")" />
         </div>
         <div class="col-md-3">
             <label>To</label>
-            <input type="date" id="filterTo" class="form-control" value="@currentTo" />
+            <input type="date" id="filterTo" class="form-control" value="@currentTo" max="@DateTime.Today.ToString("yyyy-MM-dd")" />
         </div>
     </div>
     <div class="card-footer">

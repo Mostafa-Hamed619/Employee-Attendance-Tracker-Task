@@ -40,13 +40,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Attendance.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3180"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Nov 2025 09:15:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3180"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Nov 2025 09:32:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmployeeAttendance.Presentation/js/Attendance.pgy0914jqy.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Attendance.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pgy0914jqy"},{"Name":"integrity","Value":"sha256-hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE="},{"Name":"label","Value":"_content/EmployeeAttendance.Presentation/js/Attendance.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3180"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Nov 2025 09:15:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3180"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hwRhZFBCqXLDmblzuw90bre1EeYZun04zRVIBIap\u002BHE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Nov 2025 09:32:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EmployeeAttendance.Presentation/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
