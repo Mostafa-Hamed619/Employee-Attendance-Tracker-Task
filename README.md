@@ -1,154 +1,149 @@
-🧾 Employee Attendance Tracker
+<h1 align="center"><strong>Employee Attendance Tracker</strong></h1>
 
-By: Mostafa Elsayed
-Developed for CodeZone LLC
+<p align="center">
+  A <strong>technical assessment project</strong> for <strong>CodeZone LLC</strong> — developed using 
+  <strong>ASP.NET Core MVC</strong> with a clean <strong>N-Tier Architecture</strong> and 
+  <strong>Entity Framework Core (In-Memory Database)</strong>.
+</p>
 
-📘 Overview
+<hr>
 
-The Employee Attendance Tracker is an ASP.NET MVC web application designed to manage departments, employees, and their attendance records.
-It implements a clean N-Tier architecture that separates concerns across the Presentation, Business, and Data layers.
+<h2><strong>🧑‍💻 Overview</strong></h2>
 
-The system supports:
+<p>
+The <strong>Employee Attendance Tracker</strong> is a web-based system that allows organizations to 
+manage <strong>employees, departments, and daily attendance records</strong> efficiently.  
+The system ensures each employee can have only one attendance record per day, prevents future-date entries, 
+and provides a smooth and interactive user experience using <strong>jQuery</strong> and <strong>AJAX</strong>.
+</p>
 
-Department CRUD operations
+<p>
+This project was developed by <strong>Mostafa Elsayed</strong> as a demonstration of 
+enterprise-grade architecture design, clean coding practices, and modern web development principles.
+</p>
 
-Employee CRUD operations with auto-generated employee codes
+<hr>
 
-Attendance management (mark, edit, delete)
+<h2><strong>🏗️ Project Architecture</strong></h2>
 
-Dynamic UI using jQuery and calendar integration
+<p>
+The project follows a structured <strong>N-tier architecture</strong> that separates responsibilities across 
+Presentation, Business, and Data layers. This ensures scalability, testability, and maintainability.
+</p>
 
-Filtering, pagination, and partial views for modern user experience
+<h3><strong>1️⃣ Presentation Layer — <em>(EmployeeAttendanceTracker.Presentation)</em></strong></h3>
+<ul>
+  <li>Implements the <strong>ASP.NET Core MVC</strong> pattern for the user interface.</li>
+  <li>Contains all <strong>Controllers</strong>, <strong>Views</strong>, and <strong>ViewModels</strong>.</li>
+  <li>Controllers are kept “thin” — handling only user requests and delegating logic to the Business Layer.</li>
+</ul>
 
-🧩 Project Architecture
-🏗️ N-Tier Structure
-Layer	Technology	Responsibility
-Presentation Layer	ASP.NET MVC (Views + Controllers)	Handles user interactions and UI rendering. No business logic.
-Business Layer	C# Service Classes (e.g. DepartmentService, EmployeeService, AttendanceService)	Contains all validation, business rules, and data-processing logic.
-Data Layer	Entity Framework Core (Code-First with InMemory DB)	Manages data persistence, entity configuration, and seeding.
-🧠 Key Design Principles
+<h3><strong>2️⃣ Business Layer — <em>(EmployeeAttendanceTracker.Business)</em></strong></h3>
+<ul>
+  <li>Encapsulates all <strong>business logic</strong>, validation, and core operations.</li>
+  <li>Implements services such as <strong>DepartmentService</strong>, <strong>EmployeeService</strong>, and <strong>AttendanceService</strong>.</li>
+  <li>Independent of UI or data source, making it easy to test and extend.</li>
+</ul>
 
-Dependency Injection (DI): Each layer communicates via interfaces for loose coupling.
+<h3><strong>3️⃣ Data Layer — <em>(EmployeeAttendanceTracker.Data)</em></strong></h3>
+<ul>
+  <li>Handles data persistence using <strong>Entity Framework Core</strong>.</li>
+  <li>Includes <strong>DbContext</strong>, <strong>Entity Models</strong>, and <strong>Repository Implementations</strong>.</li>
+  <li>Follows the <strong>Repository Pattern</strong> for abstracting database operations and promoting flexibility.</li>
+</ul>
 
-Entity Framework Core: Used with an In-Memory Database for lightweight testing.
+<p>
+The entire application uses <strong>Dependency Injection (DI)</strong> for clean and decoupled communication between layers.
+</p>
 
-Repository-like Pattern: Implemented implicitly via service layer for encapsulating logic.
+<hr>
 
-Validation: Handled through Data Annotations and service-level checks (e.g., uniqueness, date validation).
+<h2><strong>⚙️ Setup & Installation</strong></h2>
 
-⚙️ Setup Instructions
-🧱 Prerequisites
+<p>This project is preconfigured with an <strong>in-memory database</strong>, so no external setup is required.</p>
 
-.NET SDK 8.0 or later
+<h3><strong>Option 1 — Using Visual Studio</strong></h3>
+<ol>
+  <li><strong>Clone the Repository:</strong><br>
+      <code>git clone &lt;your-github-repository-url&gt;</code></li>
+  <li><strong>Open the Solution:</strong><br>
+      Open <code>EmployeeAttendanceTracker.sln</code> in <strong>Visual Studio 2022</strong> or later.</li>
+  <li><strong>Run the Application:</strong><br>
+      Set <code>EmployeeAttendanceTracker.Presentation</code> as the startup project and press <strong>F5</strong>.</li>
+</ol>
 
-Visual Studio 2022 or VS Code
+<h3><strong>Option 2 — Using .NET CLI</strong></h3>
+<ol>
+  <li><strong>Clone the Repository:</strong><br>
+      <code>git clone &lt;your-github-repository-url&gt;</code></li>
+  <li><strong>Navigate to the Solution Folder:</strong><br>
+      <code>cd EmployeeAttendanceTracker</code></li>
+  <li><strong>Run the Application:</strong><br>
+      <code>dotnet run --project EmployeeAttendanceTracker.Presentation --launch-profile https</code></li>
+</ol>
 
-Internet browser
+<p>
+The app will launch automatically and be accessible at:<br>
+👉 <a href="https://localhost:7142" target="_blank"><strong>https://localhost:7142</strong></a>
+</p>
 
-▶️ Run Instructions
+<p>
+The <strong>in-memory database</strong> is self-seeding, so demo data will be created automatically upon startup.
+</p>
 
-Clone the repository
+<hr>
 
-git clone https://github.com/mostafaelsayed/EmployeeAttendanceTracker.git
+<h2><strong>🚀 Features Implemented</strong></h2>
 
+<h3><strong>1. Department Management</strong></h3>
+<ul>
+  <li>Full <strong>CRUD (Create, Read, Update, Delete)</strong> operations.</li>
+  <li>Displays <strong>number of employees</strong> in each department.</li>
+  <li>Validates <strong>unique department names</strong> and <strong>codes</strong> through service-layer logic.</li>
+</ul>
 
-Open the solution in Visual Studio or VS Code.
+<h3><strong>2. Employee Management</strong></h3>
+<ul>
+  <li>Full <strong>CRUD</strong> operations for employees.</li>
+  <li>Displays monthly attendance statistics (Present, Absent, Attendance %).</li>
+  <li>Validates employee names (must have <strong>four words</strong>, each ≥ 2 characters).</li>
+  <li>Ensures <strong>unique emails</strong> using both business-layer validation and EF Core constraints.</li>
+</ul>
 
-Build and run the project.
+<h3><strong>3. Attendance Management</strong></h3>
+<ul>
+  <li><strong>Mark Attendance Dynamically:</strong> Mark employees as <strong>Present</strong> or <strong>Absent</strong> for a given day.</li>
+  <li>Automatically prevents marking attendance for <strong>future dates</strong>.</li>
+  <li>Provides <strong>live updates</strong> via <strong>jQuery + AJAX</strong> without full-page reload.</li>
+  <li><strong>Filterable Attendance Reports:</strong> Filter by Department, Employee, or Date Range.</li>
+</ul>
 
-The application uses an In-Memory Database, so no setup is required.
+<h3><strong>4. Bonus Features</strong></h3>
+<ul>
+  <li><strong>Partial Views:</strong> Used for reusable UI components like <code>AttendanceTable.cshtml</code>.</li>
+  <li><strong>Pagination:</strong> Implemented for large Employee and Attendance lists using a <code>PageResult&lt;T&gt;</code> wrapper.</li>
+  <li><strong>Interactive UI:</strong> jQuery-driven filters and live search enhance the user experience.</li>
+</ul>
 
-Sample data (departments, employees, attendance) is automatically seeded.
+<hr>
 
-Access via browser
+<h2><strong>🧰 Technologies Used</strong></h2>
+<ul>
+  <li>ASP.NET Core MVC 8.0</li>
+  <li>Entity Framework Core (In-Memory)</li>
+  <li>C# 12</li>
+  <li>jQuery & AJAX</li>
+  <li>Bootstrap 5</li>
+  <li>Dependency Injection</li>
+</ul>
 
-https://localhost:xxxx/
+<hr>
 
-🧑‍💼 Core Features
-🏢 Department Management
+<h2><strong>👨‍💻 Author</strong></h2>
+<p><strong>Mostafa Elsayed</strong></p>
+<ul>
+  <li>Email: <a href="mailto:hamedmostafa726@gmail.com">hamedmostafa726@gmail.com</a></li>
+  <li>GitHub: <a href="https://github.com/Mostafa-Hamed619" target="_blank">github.com/Mostafa-Hamed619</a></li>
+</ul>
 
-Add, edit, delete, and list departments.
-
-Validation for unique Name and Code.
-
-Display number of employees in each department.
-
-👨‍💻 Employee Management
-
-Add, edit, delete, and list employees.
-
-Auto-generated Employee Code (unique and non-editable).
-
-Validation for four-word names, each ≥2 letters.
-
-Prevents duplicate email addresses.
-
-Displays current month’s attendance summary.
-
-🗓️ Attendance Management
-
-Mark attendance as Present or Absent per employee/date.
-
-Prevent marking future dates.
-
-Each employee can have only one record per day.
-
-Filter records by department, employee, or date range.
-
-Supports pagination and AJAX-based filtering.
-
-💡 UI / UX Features
-
-jQuery for live updates and filtering.
-
-Calendar widget for selecting dates (future dates disabled).
-
-Partial Views for attendance history and employee details.
-
-Pagination on employee and attendance lists.
-
-Bootstrap 5 styling for a clean, responsive layout.
-
-🧪 Sample Data
-
-The system auto-seeds:
-
-Departments: HRMG, TECH, FINA, etc.
-
-Employees: Predefined with codes and valid emails.
-
-Attendance: Mixed sample of present/absent records.
-
-🧱 Folder Structure
-EmployeeAttendanceTracker/
-│
-├── EmployeeAttendance.Presentation/    # MVC controllers and views
-│   ├── Controllers/
-│   └── Views/
-│
-├── EmployeeAttendance.Business/        # Business logic and interfaces
-│   ├── Interfaces/
-│   └── Implementations/
-│
-├── EmployeeAttendance.Data/            # Entities, Wrappers, EF Context
-│   ├── Entities/
-│   ├── Data/
-│   └── Wrappers/
-│
-└── README.md
-
-🧑‍💻 Developer Notes
-
-All validation and business rules are enforced in services (not controllers).
-
-Controllers handle only HTTP request/response and view rendering.
-
-Designed with clean code, modularity, and testability in mind.
-
-🏁 Author
-
-Mostafa Elsayed
-Software Developer — .NET | C# | ASP.NET Core | EF Core | MVC
-📧 mostafa.hamed@example.com
-
-📅 2025
+<p align="center">⭐ If you like this project, consider giving it a star on GitHub!</p>
