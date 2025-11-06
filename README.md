@@ -48,8 +48,8 @@ Presentation, Business, and Data layers. This ensures scalability, testability, 
 <h3><strong>3️⃣ Data Layer — <em>(EmployeeAttendanceTracker.Data)</em></strong></h3>
 <ul>
   <li>Handles data persistence using <strong>Entity Framework Core</strong>.</li>
-  <li>Includes <strong>DbContext</strong>, <strong>Entity Models</strong>, and <strong>Repository Implementations</strong>.</li>
-  <li>Follows the <strong>Repository Pattern</strong> for abstracting database operations and promoting flexibility.</li>
+  <li>Includes <strong>DbContext</strong> and <strong>Entity Models</strong></li>
+ 
 </ul>
 
 <p>
